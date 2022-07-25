@@ -1,0 +1,30 @@
+{
+     "files.associations": {
+          "stdio.h": "c",
+          "stdlib.h": "c",
+          "mainmenu.h": "c",
+          "menuedit.h": "c",
+          "menudirectory.h": "c",
+          "clearscreen.h": "c",
+          "structures.h": "c",
+          "openfile.h": "c",
+          "closefile.h": "c",
+          "addrecordtofile.h": "c",
+          "editrecordinfile.h": "c",
+          "displayfile.h": "c",
+          "entertocontinue.h": "c",
+          "selectdirectory.h": "c",
+          "displaydirectory.h": "c",
+          "string.h": "c",
+          "clear-screen.h": "c",
+          "delete-record-from-directory.h": "c",
+          "display-file.h": "c",
+          "edit-record-in-directory.h": "c",
+          "enter-to-continue.h": "c",
+          "export-file-to-txt.h": "c",
+          "menu-directory.h": "c",
+          "menu-edit.h": "c",
+          "menu-file.h": "c",
+          "select-directory.h": "c"
+     }
+}

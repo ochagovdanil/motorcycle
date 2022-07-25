@@ -1,0 +1,14 @@
+ID    | Engine          | Frame           | Mark                                | Type                      | Eng. Vol.  | Power      | Price     
+----------------------------------------------------------------------------------------------------------------------------------------------------
+1     | UA093P35XG      | XLLRGPSJF3      | Yamaha MT-03                        | Sportbike                 | 400        | 35         | 50389.23
+2     | APO8934GDD      | X7L09123GH      | Kawasaki VERSYS-X 300               | Classic                   | 450        | 30         | 65000.45
+3     | KSLG36FS33      | OP224DGSSS      | Kawasaki VERSYS-X 300               | Cruiser                   | 300        | 90         | 76000.90
+4     | PFDGJW1421      | LSFEHGE325      | BMW G 310 R                         | Cruiser                   | 320        | 85         | 120000.00
+5     | UA45353FSZ      | PAFJG142FD      | KTM 125 DUKE                        | Touring                   | 700        | 60         | 82742.46
+6     | UA035DGERP      | LFGJ235SGS      | Honda CB300R                        | Retro                     | 300        | 70         | 71389.13
+7     | APO25GEEX0      | AAA2222222      | Honda CB300R                        | Retro                     | 320        | 35         | 55400.99
+8     | KSGEG32505      | ZZMMWWW099      | Honda CB300R                        | Cruiser                   | 450        | 95         | 52500.00
+9     | PDJW1093LL      | WJG7583DGS      | BMW G 310 R                         | Touring                   | 500        | 55         | 78950.99
+10    | U354KDGDGS      | WTTTRR4444      | Yamaha MT-03                        | Classic                   | 795        | 65         | 49999.99
+11    | PSFJ072XDW      | GJHEH44444      | Kawasaki VERSYS-X 300               | Classic                   | 650        | 45         | 75623.19
+12    | UA0900000W      | LFJG122222      | KTM 125 DUKE                        | Sportbike                 | 420        | 50         | 101987.78
